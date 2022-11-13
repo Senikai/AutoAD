@@ -1,0 +1,2 @@
+﻿LastName,Firstname,SamAccountname,Manager,Department,Office,Title,Password,UserPrincipalName,Company
+,,principlename without domain beind it.,"#CN=EMPLOYEE FIRST LAST NAME,OU=,OU=Employees,OU=Accounts,DC=YOUR DOMAIN,DC=com",,,,,principalname@yourdomain,
